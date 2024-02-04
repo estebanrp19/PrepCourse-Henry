@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Este proyecto pertenece al modulo 2 de el PrepCourse de henry en el cual nos enseñan como crear un repositorio y clonarlo desde github a mi pc.  
